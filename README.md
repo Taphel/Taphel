@@ -1,7 +1,7 @@
 <ins>English (french below)</ins>
 <h1 align="center" font-weight="bold"> Welcome on my GitHub profile ! </h1>
 
-<p align="center"><samp>I am a 26 years old teacher currently learning web development.</samp></p>
+<p align="center"><samp>I am a 27 years old teacher currently learning web development.</samp></p>
 
 <h2 align="center">🔭 Working with</h2>
 <p align="center">
